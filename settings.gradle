@@ -1,0 +1,3 @@
+rootProject.name='DTDPUSH'
+include ':app'
+include ':myapplication'
